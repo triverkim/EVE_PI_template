@@ -7,8 +7,12 @@
  - Middle(eqator) : 1.57079
  - Bottom(South Pole) : 3.14159
   
-2. Lo (Longitude) :
+2. Lo (Longitude)
  - Range : 0.00000 - 6.28318 (2&pi;)
+
+3. Pin size
+ -  Pin Size : 0.01144
+ -  Triangle Gap 0.00990 (= sin 60 x 0.01144)
 
 ## Planet & Structure codes
 | Type      | Barren | Gas  | Ice  | Lava | Oceanic | Plasma | Storm | Temperate |
