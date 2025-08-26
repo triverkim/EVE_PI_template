@@ -7,7 +7,7 @@
 | Planet |        |     |     |    |          |       |       |    11     |
 | Extractor |     |    |    |       |        |        |       |      3068 |
 | Basic |    |    |    |       |  2469 |        |       |      2481 |
-| advnaced |    |    |    |       |        |        |       |      2480 |
+| Advnaced |    |    |    |       |        |        |       |      2480 |
 | Storage |     |    |    |       |        |        |       |      3068 |
 | Launch Pad |  |    |    |       |        |        |       |      2555 |
 
@@ -18,23 +18,24 @@
 발사대 : 2555
 
 ## P0 item codes
-|아이템 (영문)|	아이템 (영문) | ID |
-|-|-|-|
+| 아이템 (영문) |	아이템 (영문) | ID | 확인여부 |
+|-|-|-|-|
 | Aqueous Liquids | 수성 액체 | 2267 |
 | Autotrophs | 독립영양생물 | 2287 |
 | Base Metal | 기본 금속 | 2272 |
 | Carbon Compounds | 탄소 화합물	| 2288 |
-복합 유기물	Complex Organisms	2286
-규장질 마그마	Felsic Magma	2305
-헤비 메탈	Heavy Metals	2270
+| Complex Organisms | 복합 유기물 | 2286 |
+| Felsic Magma | 규장질 마그마 | 2305 |
+| Heavy Metals | 2270 |
+헤비 메탈	
 이온 용액	Ionic Solutions	2307
 미생물	Microorganisms	2073
 비활성 가스	Noble Gas	2309
 귀금속 (P0)	Noble Metals	2268
 비-CS 수정	Non-CS Crystals	2306
 부유체 군집	Planktic Colonies	2289
-반응성 가스	Reactive Gas	2310
-부유 플라즈마	Suspended Plasma	2311
+| Reactive Gas | 반응성 가스|  2310 |
+| Suspended Plasma | 부유 플라즈마 | 2311 |
 
 
 P1
