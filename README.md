@@ -1,6 +1,10 @@
+# Planet Interaction Template codes
+
 Pln: 11 Temperate
-
-
++----+--------+
+|Type| Barren | Gas | Ice | Lava | Oceanic | Plasma | Storm | Temperate |
+Planet |
+Extractor |
 추출기 : 3062, 3068(온대)
 기본공장 2469, 2481(온대)
 첨단공장 : 2480
