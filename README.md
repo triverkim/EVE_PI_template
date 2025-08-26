@@ -38,17 +38,18 @@
 | Felsic Magma | 규장질 마그마 | 2307 | Silicon | 규소 | 9828 |
 | Aqueous Liquids | 수성 액체 | 2268 | Water | 물 | 3645 |
 | Complex Organisms | 복합 유기체 | 2287 | Protein | 단백질 | 2395 |
-| Autotrophs | 독립영양생물 | 2305 | |
-| Base Metal | 일반 금속 | 2267 | |
-| Carbon Compounds | 탄소화합물	| 2288 |
-| Heavy Metals | 중금속	| 2272 |
-| Ionic Solutions | 이온 용액 | 2309 |
-| Microorganisms | 미생물 | 2073 |
-| Noble Gas	| 비활성 기체 | 2310 |
-| Non-CS Crystals | CS-미포함 크리스탈 | 2306 |
-|	Planktic Colonies | 플랑크톤 군집 | 2286 |
-| Reactive Gas | 반응성 가스 | 2311 |
-| Suspended Plasma | 비활성 플라즈마 | 2308 |
+| Carbon Compounds | 탄소화합물	| 2288 | Biofuels | 바이오 연료 | 2396 |
+|	Planktic Colonies | 플랑크톤 군집 | 2286 | Biomass | 바이오매스 | 3779 |
+| Microorganisms | 미생물 | 2073 | Bacteria | 박테리아 | 2393 |
+| Noble Gas	| 비활성 기체 | 2310 | Oxygen | 산소 | 3683 |
+| Autotrophs | 독립영양생물 | 2305 | Industrial Fibers | 산업용 섬유 | 2397 |
+| Reactive Gas | 활성 가스 | 2311 | 	Oxidizing Compound | 산화 복합제 | 2392 |
+| Heavy Metals | 중금속	| 2272 | Toxic Metals | 유독성 금속 | 2400 |
+| Ionic Solutions | 이온 용액 | 2309 |	Electrolytes | 전해질 | 2390 |
+| Non-CS Crystals | CS-미포함 크리스탈 | 2306 | Chiral Structures | 카이랄 크리스탈 | 2401 |
+| Suspended Plasma | 비활성 플라즈마 | 2308 |	Plasmoids | 플라즈모이드 | 2389 |
+| Base Metal | 일반 금속 | 2267 | Reactive Metals | 활성 금속 | 2398 |
+
 
 
 P1
