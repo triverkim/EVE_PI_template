@@ -1,16 +1,16 @@
 # Planet Interaction Template codes
 
 ## Pin Value
-1. La (Latitude)
+### 1. La (Latitude)
  - Range : 0.00000 - 3.14159 (&pi;)
  - Top(North Pole) : 0.00000
  - Middle(eqator) : 1.57079
  - Bottom(South Pole) : 3.14159
   
-2. Lo (Longitude)
+### 2. Lo (Longitude)
  - Range : 0.00000 - 6.28318 (2&pi;)
 
-3. Pin size
+### 3. Pin size
  -  Pin Size : 0.01144
  -  Triangle Gap 0.00990 (= sin 60 x 0.01144)
 
