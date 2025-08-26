@@ -50,36 +50,8 @@
 | Suspended Plasma | 비활성 플라즈마 | 2308 |	Plasmoids | 플라즈모이드 | 2389 |
 | Base Metal | 일반 금속 | 2267 | Reactive Metals | 활성 금속 | 2398 |
 
-
-
-P1
-Water : 3645
-
-물 : 3645
-박테리아 : 2393
-바이오매스 : 3779
-
-아이템 (한글)	아이템 (영문)	ID
-박테리아	Bacteria	2396
-바이오연료	Biofuels	2390
-바이오매스	Biomass	2393
-카이랄 구조물	Chiral Structures	2401
-전해질	Electrolytes	2395
-산업용 섬유	Industrial Fibers	2392
-산화성 화합물	Oxidizing Compound	2397
-산소	Oxygen	2389
-플라스모이드	Plasmoids	2399
-귀금속 (P1)	Precious Metals	2384
-단백질	Proteins	2394
-리액티브 메탈	Reactive Metals	2400
-실리콘	Silicon	2385
-초장력 플라스틱	Supertensile Plastics	2391
-독성 금속	Toxic Metals	2383
-물	Water	2388
-
-
-
-
-2티어
-바이러스 물질 : 3775
-테스트 컬처 : 2319
+## P2 item codes
+| P2 (Eng)	| P2 (Kor) | 	ID |
+|-|-|-|
+| | 바이러스 물질 | 3775
+| | 테스트 컬처 | 2319
