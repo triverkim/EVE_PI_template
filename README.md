@@ -1,5 +1,8 @@
 # Planet Interaction Template codes
 
+## Pin Value
+La (Latitude)  : 0(Top) - &pi;(Bottom), equator(Middle) : 1.57079
+Lo (Longitude) : 0 - 2&pi;
 
 ## Planet & Structure codes
 | Type      | Barren | Gas  | Ice  | Lava | Oceanic | Plasma | Storm | Temperate |
@@ -11,7 +14,6 @@
 | High-Tech |        |      |      |      |         |        |       |           |
 | Storage   | 2541   |      |      |      |         |        |       | 3068      |
 | Launchpad | 2544   |      |      |      |         |        |       | 2555      |
-
 
 추출기 : 3062, 
 기본공장 2469, 2481(온대)
