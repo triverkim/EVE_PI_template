@@ -2,15 +2,15 @@
 
 
 ## Planet & Structure codes
-| Type      | Barren | Gas  | Ice | Lava | Oceanic | Plasma | Storm | Temperate |
-|-----------|--------|------|-----|------|---------|--------|-------|-----------|
-| Planet    | 2016   |      |     |    |          |       |       |    11     |
-| Extractor | 2848   |      |    |       |        |        |       |      3068 |
-| Basic     | 2473   |      |     |       |  2469 |        |       |      2481 |
-| Advnaced  | 2474   |      |    |       |        |        |       |      2480 |
-| High-Tech |        |      |    |       |        |        |       |      2480 |
-| Storage   | 2541   |      |    |       |        |        |       |      3068 |
-| Launchpad | 2544   |      |    |       |        |        |       |      2555 |
+| Type      | Barren | Gas  | Ice  | Lava | Oceanic | Plasma | Storm | Temperate |
+|-----------|--------|------|------|------|---------|--------|-------|-----------|
+| Planet    | 2016   |      |      |      |         |        |       | 11        |
+| Extractor | 2848   |      |      |      |         |        |       | 3068      |
+| Basic     | 2473   |      |      | 2469 |         |        |       | 2481      |
+| Advnaced  | 2474   |      |      |      |         |        |       | 2480      |
+| High-Tech |        |      |      |      |         |        |       |           |
+| Storage   | 2541   |      |      |      |         |        |       | 3068      |
+| Launchpad | 2544   |      |      |      |         |        |       | 2555      |
 
 
 추출기 : 3062, 
