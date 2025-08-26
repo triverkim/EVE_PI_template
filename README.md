@@ -19,12 +19,12 @@
 저장고 : 2562
 발사대 : 2555
 
-## P0 item codes
-| 아이템 (영문) |	아이템 (영문) | ID |
-|-|-|-|
-| Aqueous Liquids | 수성 액체 | 2268 |
-| Autotrophs | 독립영양생물 | 2305 |
-| Base Metal | 일반 금속 | 2267 |
+## P0 & P1 item codes
+| P0 (Eng) | P0 (Kor) | ID |  P1 (Eng) | P1 (Kor) | ID | 
+|-|-|-|-|-|-|
+| Aqueous Liquids | 수성 액체 | 2268 | |
+| Autotrophs | 독립영양생물 | 2305 | |
+| Base Metal | 일반 금속 | 2267 | |
 | Carbon Compounds | 탄소화합물	| 2288 |
 | Complex Organisms | 복합 유기체 | 2287 |
 | Felsic Magma | 규장질 마그마 | 2307 |
