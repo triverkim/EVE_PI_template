@@ -1,8 +1,8 @@
 # Planet Interaction Template codes
 
 ## Pin Value
-La (Latitude)  : 0(Top) - &pi;(Bottom), equator(Middle) : 1.57079
-Lo (Longitude) : 0 - 2&pi;
+La (Latitude)  : 0.00000(Top) - &pi;(3.14159)(Bottom), equator(Middle) : 1.57079
+Lo (Longitude) : 0.00000 - 2&pi;(6.28318)
 
 ## Planet & Structure codes
 | Type      | Barren | Gas  | Ice  | Lava | Oceanic | Plasma | Storm | Temperate |
@@ -24,17 +24,17 @@ Lo (Longitude) : 0 - 2&pi;
 ## P0 & P1 item codes
 | P0 (Eng) | P0 (Kor) | ID |  P1 (Eng) | P1 (Kor) | ID | 
 |-|-|-|-|-|-|
-| Aqueous Liquids | 수성 액체 | 2268 | |
+| Noble Metals | 희귀 금속 | 2270 | Precious Metals | 귀금속 | 2399 |
+| Felsic Magma | 규장질 마그마 | 2307 | Silicon | 규소 | 9828 |
+| Aqueous Liquids | 수성 액체 | 2268 | Water | 물 | 3645 |
+| Complex Organisms | 복합 유기체 | 2287 | Protein | 단백질 | 2395 |
 | Autotrophs | 독립영양생물 | 2305 | |
 | Base Metal | 일반 금속 | 2267 | |
 | Carbon Compounds | 탄소화합물	| 2288 |
-| Complex Organisms | 복합 유기체 | 2287 |
-| Felsic Magma | 규장질 마그마 | 2307 |
 | Heavy Metals | 중금속	| 2272 |
 | Ionic Solutions | 이온 용액 | 2309 |
 | Microorganisms | 미생물 | 2073 |
 | Noble Gas	| 비활성 기체 | 2310 |
-| Noble Metals | 희귀 금속 | 2270 |
 | Non-CS Crystals | CS-미포함 크리스탈 | 2306 |
 |	Planktic Colonies | 플랑크톤 군집 | 2286 |
 | Reactive Gas | 반응성 가스 | 2311 |
