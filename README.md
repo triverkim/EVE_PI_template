@@ -23,20 +23,20 @@
 | 아이템 (영문) |	아이템 (영문) | ID | 확인여부 |
 |-|-|-|-|
 | Aqueous Liquids | 수성 액체 | 2267 | V |
-| Autotrophs | 독립영양생물 | 2287 | V |
-| Base Metal | 일반 금속 | 2272 | V |
-| Carbon Compounds | 탄소화합물	| 2288 | V |
-| Complex Organisms | 복합 유기체 | 2286 | V |
-| Felsic Magma | 규장질 마그마 | 2305 | V|
-| Heavy Metals | 중금속	| 2270 | V|
-| Ionic Solutions | 이온 용액 | 2307 | V| 
-| Microorganisms	| 미생물 | 2073 | V|
-| Noble Gas	| 비활성 기체 | 2309 | V |
-귀금속 (P0)	Noble Metals | 희귀 금속 | 2268 | V |
-| Non-CS Crystals | CS-미포함 크리스탈 | 2306 | V|
-|	Planktic Colonies|플랑크톤 군집 | 2289 | V |
-| Reactive Gas | 반응성 가스|  2310 |
-| Suspended Plasma | q비활성  플라즈마 | 2311 | V |
+| Autotrophs | 독립영양생물 | 2287 |  |
+| Base Metal | 일반 금속 | 2272 |  |
+| Carbon Compounds | 탄소화합물	| 2288 |  |
+| Complex Organisms | 복합 유기체 | 2286 |  |
+| Felsic Magma | 규장질 마그마 | 2305 |  |
+| Heavy Metals | 중금속	| 2270 |  |
+| Ionic Solutions | 이온 용액 | 2307 |  |
+| Microorganisms | 미생물 | 2073 |  |
+| Noble Gas	| 비활성 기체 | 2309 |   |
+| Noble Metals | 희귀 금속 | 2268 |  |
+| Non-CS Crystals | CS-미포함 크리스탈 | 2306 | |
+|	Planktic Colonies | 플랑크톤 군집 | 2289 |  |
+| Reactive Gas | 반응성 가스 |  2310 | |
+| Suspended Plasma | 비활성  플라즈마 | 2311 |  |
 
 
 P1
