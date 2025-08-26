@@ -2,8 +2,8 @@
 
 ## Pin Value
 ### 1. La (Latitude)
- - Range : 0.00000 - 3.14159 (&pi;)
- - Top(North Pole) : 0.00000
+ - Range : 0.00001 - 3.14159 (&pi;)
+ - Top(North Pole) : 0.00000 (Error)
  - Middle(eqator) : 1.57079
  - Bottom(South Pole) : 3.14159
   
