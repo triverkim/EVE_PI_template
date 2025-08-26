@@ -1,7 +1,7 @@
 # Planet Interaction Template codes
 
 
-|------|--------|-----|-----|------|---------|--------|-------|-----------|
+|------+--------+-----+-----+------+---------+--------+-------+-----------|
 | Type | Barren | Gas | Ice | Lava | Oceanic | Plasma | Storm | Temperate |
 | Planet |        |     |     |    |          |       |       |    11     |
 | Extractor |     |    |    |       |        |        |       |      3068 |
