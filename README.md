@@ -1,8 +1,14 @@
 # Planet Interaction Template codes
 
 ## Pin Value
-- La (Latitude)  : 0.00000(Top) - &pi;(3.14159)(Bottom), equator(Middle) : 1.57079
-- Lo (Longitude) : 0.00000 - 2&pi;(6.28318)
+1. La (Latitude)
+ - Range : 0.00000 - 3.14159 (&pi;)
+ - Top(North Pole) : 0.00000
+ - Middle(eqator) : 1.57079
+ - Bottom(South Pole) : 3.14159
+  
+2. Lo (Longitude) :
+ - Range : 0.00000 - 6.28318 (2&pi;)
 
 ## Planet & Structure codes
 | Type      | Barren | Gas  | Ice  | Lava | Oceanic | Plasma | Storm | Temperate |
