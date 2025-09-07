@@ -53,9 +53,14 @@
 | Enriched Uranium | | 44 |
 |	Fertilizer | | 3693 |
 | Livestock | | 3725 |
-| Virus | 바이러스 물질 | 3775 |
+| Mechanical Parts | 기계 부품 | 3689 |
+|	Microfiber Shielding| | | 2327 |
+| Miniature Electronics |  | 9842|
+| Nanites | | 2463 |
+| Viral Agent | 바이러스 물질 | 3775 |
 | | 테스트 컬처 | 2319 |
 | Biocells | 바이오셀 | 2329 |
 | 	Genetically Enhanced Livestock | 유전자 변형체 | 15317 |
+| Water-Cooled CPU | |2328|
 
 ## P3 item codes
