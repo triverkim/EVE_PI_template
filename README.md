@@ -54,8 +54,8 @@
 |	Fertilizer | | 3693 |
 | Livestock | | 3725 |
 | Mechanical Parts | 기계 부품 | 3689 |
-|	Microfiber Shielding| | | 2327 |
-| Miniature Electronics |  | 9842|
+|	Microfiber Shielding |  | 2327 |
+| Miniature Electronics |  | 9842 |
 | Nanites | | 2463 |
 | Oxides | 산소 | 2317| 
 | Polyaramids | | 2321 | 
