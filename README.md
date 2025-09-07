@@ -28,7 +28,7 @@
 ## P0 & P1 item codes
 | P0 (Eng) | P0 (Kor) | ID |  P1 (Eng) | P1 (Kor) | ID | 
 |-|-|-|-|-|-|
-| Noble Metals | 희귀 금속 | 2270 | Precious Metals | 귀금속 | 2399 |
+| Noble Metals | 희귀 금속 | 2270 | ![image](https://images.evetech.net/types/2399/icon)"Precious Metals " {width=10px height=10px})Precious Metals | 귀금속 | 2399 |
 | Felsic Magma | 규장질 마그마 | 2307 | Silicon | 규소 | 9828 |
 | Aqueous Liquids | 수성 액체 | 2268 | Water | 물 | 3645 |
 | Complex Organisms | 복합 유기체 | 2287 | Protein | 단백질 | 2395 |
