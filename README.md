@@ -73,3 +73,26 @@
 | Water-Cooled CPU | |2328|
 
 ## P3 item codes
+| P2 (Eng)	| P2 (Kor) | 	ID |
+|-|-|-|
+| Biotech Research Reports	|	2358 |
+|	Camera Drones	|	2345 |
+|	Condensates	|	2344 |
+|	Cryoprotectant Solution	|	2367 |
+|	Data Chips	|	17392 |
+|	Gel-Matrix Biopaste	|	2348 |
+|	Guidance Systems	|	9834 |
+|	Hazmat Detection Systems	|	2366 |
+|	Hermetic Membranes	|	2361 |
+|	High-Tech Transmitters	|	17898 |
+|	Industrial Explosives	|	2360 |
+|	Neocoms	|	2354 |
+|	Nuclear Reactors	|	2352 |
+|	Planetary Vehicles	|	9846 |
+|	Robotics	|	9848 |
+|	Smartfab Units	|	2351 |
+|	Supercomputers	|	2349 |
+|	Synthetic Synapses	|	2346 |
+|	Transcranial Microcontrollers	|	12836 |
+|	Ukomi Superconductors | 17136 |
+|	Vaccines | 28974 |
