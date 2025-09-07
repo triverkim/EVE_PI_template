@@ -57,10 +57,19 @@
 |	Microfiber Shielding| | | 2327 |
 | Miniature Electronics |  | 9842|
 | Nanites | | 2463 |
+| Oxides | 산소 | 2317| 
+| Polyaramids | | 2321 | 
+| Polytextiles | | 3695 |
+| Rocket Fuel | | 9830 |
+| Silicate Glass | | 3697 |
+| 	Superconductors |  | 9838 | 
+| Supertensile Plastics |  2312 |
+| Synthetic Oil | | 3691 | 
 | Viral Agent | 바이러스 물질 | 3775 |
-| | 테스트 컬처 | 2319 |
+| Test Cultures | 테스트 컬처 | 2319 |
 | Biocells | 바이오셀 | 2329 |
 | 	Genetically Enhanced Livestock | 유전자 변형체 | 15317 |
+	| Transmitter | | 9840 |
 | Water-Cooled CPU | |2328|
 
 ## P3 item codes
