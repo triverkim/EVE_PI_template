@@ -32,22 +32,22 @@
 | Felsic Magma | 규장질 마그마 | 2307 | Silicon | 규소 | 9828 |
 | Aqueous Liquids | 수성 액체 | 2268 | Water | 물 | 3645 |
 | Complex Organisms | 복합 유기체 | 2287 | Protein | 단백질 | 2395 |
-| Carbon Compounds | 탄소화합물	| 2288 | Biofuels | 바이오 연료 | 2396 |
-|	Planktic Colonies | 플랑크톤 군집 | 2286 | Biomass | 바이오매스 | 3779 |
+| Carbon Compounds | 탄소화합물 | 2288 | Biofuels | 바이오 연료 | 2396 |
+| Planktic Colonies | 플랑크톤 군집 | 2286 | Biomass | 바이오매스 | 3779 |
 | Microorganisms | 미생물 | 2073 | Bacteria | 박테리아 | 2393 |
-| Noble Gas	| 비활성 기체 | 2310 | Oxygen | 산소 | 3683 |
+| Noble Gas | 비활성 기체 | 2310 | Oxygen | 산소 | 3683 |
 | Autotrophs | 독립영양생물 | 2305 | Industrial Fibers | 산업용 섬유 | 2397 |
-| Reactive Gas | 활성 가스 | 2311 | 	Oxidizing Compound | 산화 복합제 | 2392 |
-| Heavy Metals | 중금속	| 2272 | Toxic Metals | 유독성 금속 | 2400 |
-| Ionic Solutions | 이온 용액 | 2309 |	Electrolytes | 전해질 | 2390 |
+| Reactive Gas | 활성 가스 | 2311 | Oxidizing Compound | 산화 복합제 | 2392 |
+| Heavy Metals | 중금속 | 2272 | Toxic Metals | 유독성 금속 | 2400 |
+| Ionic Solutions | 이온 용액 | 2309 | Electrolytes | 전해질 | 2390 |
 | Non-CS Crystals | CS-미포함 크리스탈 | 2306 | Chiral Structures | 카이랄 크리스탈 | 2401 |
-| Suspended Plasma | 비활성 플라즈마 | 2308 |	Plasmoids | 플라즈모이드 | 2389 |
+| Suspended Plasma | 비활성 플라즈마 | 2308 | Plasmoids | 플라즈모이드 | 2389 |
 | Base Metal | 일반 금속 | 2267 | Reactive Metals | 활성 금속 | 2398 |
 
 ## P2 item codes
-| P2 (Eng)	| P2 (Kor) | ID |
+| P2 (Eng) | P2 (Kor) | ID |
 |-|-|-|
-|	Consumer Electronics | 전자제품 | 9836 |
+| Consumer Electronics | 전자제품 | 9836 |
 | Livestock | 가축 | 3725 |
 | Construction Blocks | 건축 자재 | 3828 |
 | Supertensile Plastics | 고장력 플라스틱 | 2312 |
@@ -57,11 +57,11 @@
 | Coolant | 냉각수 | 9832 |
 | Enriched Uranium | 농축 우라늄 | 44 |
 | Rocket Fuel | 로켓 연료 | 9830 |
-|	Microfiber Shielding | 마이크로섬유 차폐막 | 2327 |
+| Microfiber Shielding | 마이크로섬유 차폐막 | 2327 |
 | Miniature Electronics | 미니어처 전자기기 | 9842 |
 | Viral Agent | 바이러스 물질 | 3775 |
 | Biocells | 바이오셀 | 2329 |
-|	Fertilizer | 비료 | 3693 |
+| Fertilizer | 비료 | 3693 |
 | Oxides | 산화물 | 2317| 
 | Transmitter | 송신기 | 9840 |
 | Water-Cooled CPU | 수냉 CPU |2328|
@@ -73,30 +73,26 @@
 | Synthetic Oil | 합성유 | 3691 | 
 
 ## P3 item codes
-| P3 (Eng)	| P3 (Kor) | ID |
+| P3 (Eng) | P3 (Kor) | ID |
 |-|-|-|
-|	Gel-Matrix Biopaste	|	젤-매트릭스 생물학 물질 | 2348 |
-|	Neocoms	| 네오콤 |	2354 |
-|	Data Chips	|	데이터 칩 | 17392 |
-|	Transcranial Microcontrollers	| 두개골 장착용 마이크로컨트롤러 | 12836 |
-|	Robotics	| 로봇 |	9848 |
-|	Hermetic Membranes	|	밀폐된 멤브레인 | 2361 |
-|	Vaccines | 백신 | 28974 |
-|	Industrial Explosives	|	산업용 폭발물 | 2360 |
-| Biotech Research Reports	|	생물공학 연구보고서 | 2358 |
-|	Supercomputers	|	슈퍼컴퓨터 | 2349 |
-|	Smartfab Units	|	스마트 소재 | 2351 |
-|	Ukomi Superconductors | 우코미 초전도체 | 17136 |
-|	Nuclear Reactors	|	원자력 반응로 | 2352 |
-|	Hazmat Detection Systems	| 위험 감지 시싀템 |	2366 |
-|	Guidance Systems	|	유도 시스템 | 9834 |
-|	Condensates	|	응축물 | 2344 |
-|	Synthetic Synapses	|	인조 신경 접합부 | 2346 |
-|	Planetary Vehicles	|	지상 차량 | 9846 |
-|	High-Tech Transmitters	|	첨단 송신기 | 17898 |
-|	Camera Drones	|	카메라 드론 | 2345 |
-|	Cryoprotectant Solution	|	항냉동제 용액 | 2367 |
-
-
-
-
+| Gel-Matrix Biopaste | 젤-매트릭스 생물학 물질 | 2348 |
+| Neocoms | 네오콤 | 2354 |
+| Data Chips |	데이터 칩 | 17392 |
+| Transcranial Microcontrollers | 두개골 장착용 마이크로컨트롤러 | 12836 |
+| Robotics | 로봇 | 9848 |
+| Hermetic Membranes | 밀폐된 멤브레인 | 2361 |
+| Vaccines | 백신 | 28974 |
+| Industrial Explosives	| 산업용 폭발물 | 2360 |
+| Biotech Research Reports | 생물공학 연구보고서 | 2358 |
+| Supercomputers | 슈퍼컴퓨터 | 2349 |
+| Smartfab Units | 스마트 소재 | 2351 |
+| Ukomi Superconductors | 우코미 초전도체 | 17136 |
+| Nuclear Reactors | 원자력 반응로 | 2352 |
+| Hazmat Detection Systems | 위험 감지 시싀템 | 2366 |
+| Guidance Systems | 유도 시스템 | 9834 |
+| Condensates | 응축물 | 2344 |
+| Synthetic Synapses | 인조 신경 접합부 | 2346 |
+| Planetary Vehicles | 지상 차량 | 9846 |
+| High-Tech Transmitters | 첨단 송신기 | 17898 |
+| Camera Drones | 카메라 드론 | 2345 |
+| Cryoprotectant Solution | 항냉동제 용액 | 2367 |
