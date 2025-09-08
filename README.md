@@ -45,54 +45,58 @@
 | Base Metal | 일반 금속 | 2267 | Reactive Metals | 활성 금속 | 2398 |
 
 ## P2 item codes
-| P2 (Eng)	| P2 (Kor) | 	ID |
+| P2 (Eng)	| P2 (Kor) | ID |
 |-|-|-|
+|	Consumer Electronics | 전자제품 | 9836 |
+| Livestock | 가축 | 3725 |
 | Construction Blocks | 건축 자재 | 3828 |
-|	Consumer Electronics | | 9836 |
-| Coolant | a | 9832 |
-| Enriched Uranium | | 44 |
-|	Fertilizer | | 3693 |
-| Livestock | | 3725 |
+| Supertensile Plastics | 고장력 플라스틱 | 2312 |
+| Silicate Glass | 규산염 유리 | 3697 |
 | Mechanical Parts | 기계 부품 | 3689 |
-|	Microfiber Shielding |  | 2327 |
-| Miniature Electronics |  | 9842 |
-| Nanites | | 2463 |
-| Oxides | 산소 | 2317| 
-| Polyaramids | | 2321 | 
-| Polytextiles | | 3695 |
-| Rocket Fuel | | 9830 |
-| Silicate Glass | | 3697 |
-| Superconductors |  | 9838 | 
-| Supertensile Plastics | | 2312 |
-| Synthetic Oil | | 3691 | 
+| Nanites | 나나이트 | 2463 |
+| Coolant | 냉각수 | 9832 |
+| Enriched Uranium | 농축 우라늄 | 44 |
+| Rocket Fuel | 로켓 연료 | 9830 |
+|	Microfiber Shielding | 마이크로섬유 차폐막 | 2327 |
+| Miniature Electronics | 미니어처 전자기기 | 9842 |
 | Viral Agent | 바이러스 물질 | 3775 |
-| Test Cultures | 테스트 컬처 | 2319 |
 | Biocells | 바이오셀 | 2329 |
-| Genetically Enhanced Livestock | 유전자 변형체 | 15317 |
-| Transmitter | | 9840 |
-| Water-Cooled CPU | |2328|
+|	Fertilizer | 비료 | 3693 |
+| Oxides | 산화물 | 2317| 
+| Transmitter | 송신기 | 9840 |
+| Water-Cooled CPU | 수냉 CPU |2328|
+| Genetically Enhanced Livestock | 유전자변형 가축 | 15317 |
+| Superconductors | 초전도체 | 9838 | 
+| Test Cultures | 테스트 컬처 | 2319 |
+| Polyaramids | 폴리아라미드 | 2321 | 
+| Polytextiles | 폴리텍스타일 | 3695 |
+| Synthetic Oil | 합성유 | 3691 | 
 
 ## P3 item codes
-| P2 (Eng)	| P2 (Kor) | 	ID |
+| P3 (Eng)	| P3 (Kor) | ID |
 |-|-|-|
-| Biotech Research Reports	|	2358 |
-|	Camera Drones	|	2345 |
-|	Condensates	|	2344 |
-|	Cryoprotectant Solution	|	2367 |
-|	Data Chips	|	17392 |
-|	Gel-Matrix Biopaste	|	2348 |
-|	Guidance Systems	|	9834 |
-|	Hazmat Detection Systems	|	2366 |
-|	Hermetic Membranes	|	2361 |
-|	High-Tech Transmitters	|	17898 |
-|	Industrial Explosives	|	2360 |
-|	Neocoms	|	2354 |
-|	Nuclear Reactors	|	2352 |
-|	Planetary Vehicles	|	9846 |
-|	Robotics	|	9848 |
-|	Smartfab Units	|	2351 |
-|	Supercomputers	|	2349 |
-|	Synthetic Synapses	|	2346 |
-|	Transcranial Microcontrollers	|	12836 |
-|	Ukomi Superconductors | 17136 |
-|	Vaccines | 28974 |
+|	Gel-Matrix Biopaste	|	젤-매트릭스 생물학 물질 | 2348 |
+|	Neocoms	| 네오콤 |	2354 |
+|	Data Chips	|	데이터 칩 | 17392 |
+|	Transcranial Microcontrollers	| 두개골 장착용 마이크로컨트롤러 | 12836 |
+|	Robotics	| 로봇 |	9848 |
+|	Hermetic Membranes	|	밀폐된 멤브레인 | 2361 |
+|	Vaccines | 백신 | 28974 |
+|	Industrial Explosives	|	산업용 폭발물 | 2360 |
+| Biotech Research Reports	|	생물공학 연구보고서 | 2358 |
+|	Supercomputers	|	슈퍼컴퓨터 | 2349 |
+|	Smartfab Units	|	스마트 소재 | 2351 |
+|	Ukomi Superconductors | 우코미 초전도체 | 17136 |
+|	Nuclear Reactors	|	원자력 반응로 | 2352 |
+|	Hazmat Detection Systems	| 위험 감지 시싀템 |	2366 |
+|	Guidance Systems	|	유도 시스템 | 9834 |
+|	Condensates	|	응축물 | 2344 |
+|	Synthetic Synapses	|	인조 신경 접합부 | 2346 |
+|	Planetary Vehicles	|	지상 차량 | 9846 |
+|	High-Tech Transmitters	|	첨단 송신기 | 17898 |
+|	Camera Drones	|	카메라 드론 | 2345 |
+|	Cryoprotectant Solution	|	항냉동제 용액 | 2367 |
+
+
+
+
