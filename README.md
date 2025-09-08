@@ -47,20 +47,20 @@
 ## P2 item codes
 | P2 (Eng) | P2 (Kor) | ID | icons |
 |-|-|-|-|
-| Consumer Electronics | 전자제품 | 9836 | [image](https://images.evetech.net/types/9836/icon?size=32) |
-| Livestock | 가축 | 3725 | [](https://images.evetech.net/types/3725/icon?size=32) |
-| Construction Blocks | 건축 자재 | 3828 | [](https://images.evetech.net/types/3828/icon?size=32) |
-| Supertensile Plastics | 고장력 플라스틱 | 2312 | [](https://images.evetech.net/types/2312/icon?size=32) |
-| Silicate Glass | 규산염 유리 | 3697 | [](https://images.evetech.net/types/3697/icon?size=32) |
-| Mechanical Parts | 기계 부품 | 3689 | [](https://images.evetech.net/types/3725/icon?size=32) |
-| Nanites | 나나이트 | 2463 | [](https://images.evetech.net/types/2463/icon?size=32) |
-| Coolant | 냉각수 | 9832 | [](https://images.evetech.net/types/9832/icon?size=32) |
-| Enriched Uranium | 농축 우라늄 | 44 |
-| Rocket Fuel | 로켓 연료 | 9830 |
-| Microfiber Shielding | 마이크로섬유 차폐막 | 2327 |
-| Miniature Electronics | 미니어처 전자기기 | 9842 |
-| Viral Agent | 바이러스 물질 | 3775 |
-| Biocells | 바이오셀 | 2329 |
+| Consumer Electronics | 전자제품 | 9836 | ![image](https://images.evetech.net/types/9836/icon?size=32) |
+| Livestock | 가축 | 3725 | ![](https://images.evetech.net/types/3725/icon?size=32) |
+| Construction Blocks | 건축 자재 | 3828 | ![](https://images.evetech.net/types/3828/icon?size=32) |
+| Supertensile Plastics | 고장력 플라스틱 | 2312 | ![](https://images.evetech.net/types/2312/icon?size=32) |
+| Silicate Glass | 규산염 유리 | 3697 | ![](https://images.evetech.net/types/3697/icon?size=32) |
+| Mechanical Parts | 기계 부품 | 3689 | ![](https://images.evetech.net/types/3725/icon?size=32) |
+| Nanites | 나나이트 | 2463 | ![](https://images.evetech.net/types/2463/icon?size=32) |
+| Coolant | 냉각수 | 9832 | ![](https://images.evetech.net/types/9832/icon?size=32) |
+| Enriched Uranium | 농축 우라늄 | 44 | ![](https://images.evetech.net/types/44/icon?size=32) |
+| Rocket Fuel | 로켓 연료 | 9830 | ![](https://images.evetech.net/types/9830/icon?size=32) |
+| Microfiber Shielding | 마이크로섬유 차폐막 | 2327 | ![](https://images.evetech.net/types/2327/icon?size=32) |
+| Miniature Electronics | 미니어처 전자기기 | 9842 | ![](https://images.evetech.net/types/9842/icon?size=32) |
+| Viral Agent | 바이러스 물질 | 3775 | ![](https://images.evetech.net/types/3775/icon?size=32) |
+| Biocells | 바이오셀 | 2329 | ![](https://images.evetech.net/types/2329/icon?size=32) |
 | Fertilizer | 비료 | 3693 |
 | Oxides | 산화물 | 2317| 
 | Transmitter | 송신기 | 9840 |
