@@ -47,7 +47,7 @@
 ## P2 item codes
 | P2 (Eng) | P2 (Kor) | ID | icons |
 |-|-|-|-|
-| Consumer Electronics | 전자제품 | 9836 | [](https://images.evetech.net/types/9836/icon?size=32) |
+| Consumer Electronics | 전자제품 | 9836 | [image](https://images.evetech.net/types/9836/icon?size=32) |
 | Livestock | 가축 | 3725 | [](https://images.evetech.net/types/3725/icon?size=32) |
 | Construction Blocks | 건축 자재 | 3828 | [](https://images.evetech.net/types/3828/icon?size=32) |
 | Supertensile Plastics | 고장력 플라스틱 | 2312 | [](https://images.evetech.net/types/2312/icon?size=32) |
