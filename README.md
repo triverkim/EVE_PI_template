@@ -96,3 +96,15 @@
 | High-Tech Transmitters | 첨단 송신기 | 17898 |
 | Camera Drones | 카메라 드론 | 2345 |
 | Cryoprotectant Solution | 항냉동제 용액 | 2367 |
+
+## P4 item codes
+| P4 (Eng) | P4 (Kor) | ID |
+|-|-|-|
+| Nano-Factory | 나노공장 | 2869 |
+| Sterile Conduits | 멸균 도관 | 2875 |
+| Wetware Mainframe | 생체두뇌 중앙 컴퓨터 | 2876 |
+| Broadcast Node | 송수신 노드 | 2867 |
+| Organic Mortar Applicators | 유기 회반죽 살포기 | 2870 |
+| Self-Harmonizing Power Core | 자가진단 파워코어 | 2872 |
+| Recursive Computing Module | 재귀 모듈 | 2871 |
+| Integrity Response Drones | 피해 복구 드론 | 2868 |
