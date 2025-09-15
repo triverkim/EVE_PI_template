@@ -1,4 +1,4 @@
-# Planet Interaction Template codes
+# Planetary Interaction Template codes
 
 ## Pin Value
 ### 1. La (Latitude)
@@ -22,7 +22,7 @@
 | Basic     | 2473   | 2492 | 2493 | 2469 | 2490    | 2471   | 2483  | 2481      |
 | Advnaced  | 2474   | 2494 | 2491 | 2470 | 2485    | 2472   | 2484  | 2480      |
 | High-Tech | 2475   | -    | -    | -    | -       | -      | -     | 2482      |
-| Storage   | 2541   | 2536 | 2257 | 2558 | 2535    | 2560   | 2561  | 2562, 3068 |
+| Storage   | 2541   | 2536 | 2257 | 2558 | 2535    | 2560   | 2561  | 2562      |
 | Launchpad | 2544   | 2543 | 2552 | 2555 | 2542    | 2556   | 2557  | 2254      |
 
 ## P0 & P1 item codes
