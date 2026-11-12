@@ -108,3 +108,8 @@
 | Self-Harmonizing Power Core | 자가진단 파워코어 | 2872 |
 | Recursive Computing Module | 재귀 모듈 | 2871 |
 | Integrity Response Drones | 피해 복구 드론 | 2868 |
+
+## P4 Recipe Ratio
+| P4 (Eng) | P4 (Kor) | P3 Factory | P2 Factory | P1 |
+|-|-|-|-|-|
+| Nano-Factory | 나노공장 | 산업용 폭발물 x2<br>우코미 초전도체 x2 | 비료 x4<br>폴리 텍타일 x4<br>초전도체 x4<br>합성유 x4 | |
