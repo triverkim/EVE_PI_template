@@ -112,4 +112,4 @@
 ## P4 Recipe Ratio
 | P4 (Eng) | P4 (Kor) | P3 Factory | P2 Factory | P1 |
 |-|-|-|-|-|
-| Nano-Factory | 나노공장 | 산업용 폭발물 x2<br>우코미 초전도체 x2 | 비료 x4<br>폴리 텍타일 x4<br>초전도체 x4<br>합성유 x4 | |
+| Nano-Factory | 나노공장 | 산업용 폭발물 x2<br>우코미 초전도체 x2 | 비료 x4<br>폴리텍타일 x4<br>초전도체 x4<br>합성유 x4 | 박테리아 x160<br>단백질 x160<br>바이오 연료 x160<br>산업용 섬유 x160<br>플라즈모이드 x160<br>물 x160<br>전해질 x160<br>산소 x160<br>활성금속 x40|
