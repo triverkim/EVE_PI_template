@@ -114,8 +114,8 @@
 |-|-|-|-|-|
 | Nano-Factory | 나노공장 | 산업용 폭발물 x2<br>우코미 초전도체 x2 | 비료 x4<br>폴리텍스타일 x4<br>초전도체 x4<br>합성유 x4 | 박테리아 x160<br>단백질 x160<br>바이오 연료 x160<br>산업용 섬유 x160<br>플라즈모이드 x160<br>물 x160<br>전해질 x160<br>산소 x160<br>활성 금속 x40 |
 | Sterile Conduits | 멸균 도관 | 스마트 소재 x2<br>백신 x2 | 건축 자재 x4<br>미니어처 전자기기 x4<br>가축 x4<br>바이러스 x4 | 유독성 금속 x160<br>활성 금속 x160<br>규소 x160<br>카이랄 크리스탈 x160<br>단백질 x160<br>바이오 연료 x160<br>바이오매스 x160<br>박테리아 x160<br>물 x40 |
-| Wetware Mainframe | 생체두뇌 중앙 컴퓨터 | 슈퍼컴퓨터 x2<br>생물공학 연구보고서 x2<br>항냉동제 용액 x2 |
-| Broadcast Node | 송수신 노드 | 네오콤 x2<br>데이터 칩 x2<br> 첨단 송신기 x2 | 바이오셀 x4<br>규산염 유리 x4<br>고장력 플라스틱 x4<br>마이크로섬유 차폐막 x4<br>송신기 x4<br>폴리아라마드 x4 | 바이오 연료 x160<br>귀금속 x160<br>산소 x160<br>바이오매스 x160<br>규소 x160<br>산업용 섬유 x320<br>플라즈모이드 x160<br>카이랄 크리스탈 x160<br>산화 복합제 x160 |
+| Wetware Mainframe | 생체두뇌 중앙 컴퓨터 | 슈퍼컴퓨터 x2<br>생물공학 연구보고서 x2<br>항냉동제 용액 x2 | 건축 자재 x4<br>나나이트 x4<br>가축 x4<br>수냉 CPU x4<br>냉각수 x4<br>전자제품 x4<br>테스트 컬쳐 x4<br>합성유 x4<br>비료 x4<br>
+| Broadcast Node | 송수신 노드 | 네오콤 x2<br>데이터 칩 x2<br> 첨단 송신기 x2 | 바이오셀 x4<br>규산염 유리 x4<br>고장력 플라스틱 x4<br>마이크로섬유 차폐막 x4<br>송신기 x4<br>폴리아라마드 x4 | 바이오 연료 x160<br>귀금속 x160<br>산소 x160<br>바이오매스 x160<br>규소 x160<br>산업용 섬유 x320<br>플라즈모이드 x160<br>카이랄 크리스탈 x160<br>산화 복합체 x160 |
 | Organic Mortar Applicators | 유기 회반죽 살포기 |  |
 | Self-Harmonizing Power Core | 자가진단 파워코어 |  |
 | Recursive Computing Module | 재귀 모듈 |  |
